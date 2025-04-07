@@ -1,9 +1,107 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15" version="26.2.8">
-  <diagram name="Page-1" id="SdlY6U1H4udfot6sdlyQ">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15" version="26.2.8" pages="2">
+  <diagram name="Architecture" id="SdlY6U1H4udfot6sdlyQ">
+    <mxGraphModel dx="1700" dy="1007" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ugt37-HIwqrgVjgy8sR8-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="100" width="430" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="Ugt37-HIwqrgVjgy8sR8-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="90" width="430" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="Ugt37-HIwqrgVjgy8sR8-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ugt37-HIwqrgVjgy8sR8-1" target="Ugt37-HIwqrgVjgy8sR8-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ugt37-HIwqrgVjgy8sR8-25" value="Data Authentication&amp;nbsp;&lt;div&gt;&amp;nbsp;Pipeline&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ugt37-HIwqrgVjgy8sR8-10">
+          <mxGeometry x="-0.2349" y="2" relative="1" as="geometry">
+            <mxPoint x="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ugt37-HIwqrgVjgy8sR8-1" value="Upload Image" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ugt37-HIwqrgVjgy8sR8-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ugt37-HIwqrgVjgy8sR8-2" target="Ugt37-HIwqrgVjgy8sR8-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ugt37-HIwqrgVjgy8sR8-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ugt37-HIwqrgVjgy8sR8-2" target="Ugt37-HIwqrgVjgy8sR8-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ugt37-HIwqrgVjgy8sR8-2" value="Watermarked Image" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ugt37-HIwqrgVjgy8sR8-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ugt37-HIwqrgVjgy8sR8-3" target="Ugt37-HIwqrgVjgy8sR8-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ugt37-HIwqrgVjgy8sR8-3" value="NFT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ugt37-HIwqrgVjgy8sR8-4" value="NFT Marketplace" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ugt37-HIwqrgVjgy8sR8-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Ugt37-HIwqrgVjgy8sR8-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="240" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ugt37-HIwqrgVjgy8sR8-5" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="210" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ugt37-HIwqrgVjgy8sR8-6" value="Social Media" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ugt37-HIwqrgVjgy8sR8-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ugt37-HIwqrgVjgy8sR8-8" target="Ugt37-HIwqrgVjgy8sR8-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ugt37-HIwqrgVjgy8sR8-26" value="Verify" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ugt37-HIwqrgVjgy8sR8-20">
+          <mxGeometry x="0.1457" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ugt37-HIwqrgVjgy8sR8-8" value="Verify" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="915" y="370" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ugt37-HIwqrgVjgy8sR8-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="Ugt37-HIwqrgVjgy8sR8-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="240" as="sourcePoint" />
+            <mxPoint x="530" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ugt37-HIwqrgVjgy8sR8-13" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="210" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ugt37-HIwqrgVjgy8sR8-21" value="Web3 Native" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="240" y="530" width="150" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Ugt37-HIwqrgVjgy8sR8-22" value="Web2 Native" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="810" y="530" width="150" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Ugt37-HIwqrgVjgy8sR8-23" value="&lt;b&gt;Virality&amp;nbsp;&lt;/b&gt;↑&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="220" width="180" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Ugt37-HIwqrgVjgy8sR8-24" value="&lt;b&gt;Value&amp;nbsp;&lt;/b&gt;↑&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="330" y="400" width="110" height="35" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="y2AX_-SC_xydC1BlpLDu" name="Frontend">
     <mxGraphModel dx="1020" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="cwnbkCxePR4Ohjtt_Xep-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="130" width="470" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="cwnbkCxePR4Ohjtt_Xep-2" value="NFT Marketplace" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="250" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="cwnbkCxePR4Ohjtt_Xep-3" value="Verifier App" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="250" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="cwnbkCxePR4Ohjtt_Xep-4" value="Frontend Requirements" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="300" y="180" width="210" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
