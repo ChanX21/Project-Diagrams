@@ -90,17 +90,56 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cwnbkCxePR4Ohjtt_Xep-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cwnbkCxePR4Ohjtt_Xep-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="130" width="470" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="cwnbkCxePR4Ohjtt_Xep-2" value="NFT Marketplace" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cwnbkCxePR4Ohjtt_Xep-2" value="NFT Marketplace" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="250" width="120" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="cwnbkCxePR4Ohjtt_Xep-3" value="Verifier App" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cwnbkCxePR4Ohjtt_Xep-3" value="Verifier App" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="250" width="120" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="cwnbkCxePR4Ohjtt_Xep-4" value="Frontend Requirements" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="cwnbkCxePR4Ohjtt_Xep-4" value="Frontend Requirements" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="300" y="180" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UONl_0vnLgeqRxhJSI32-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="152.5" y="727" width="505" height="408" as="geometry" />
+        </mxCell>
+        <mxCell id="UONl_0vnLgeqRxhJSI32-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="189" y="805" width="169" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="UONl_0vnLgeqRxhJSI32-2" value="Pic" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="206" y="846" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UONl_0vnLgeqRxhJSI32-3" value="Connect Wallet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="750" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="UONl_0vnLgeqRxhJSI32-4" value="Bid&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="208" y="918.5" width="34" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="UONl_0vnLgeqRxhJSI32-5" value="+" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="254" y="918.5" width="34" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="UONl_0vnLgeqRxhJSI32-6" value="-" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="918.5" width="34" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="UONl_0vnLgeqRxhJSI32-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="418" y="807" width="169" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="UONl_0vnLgeqRxhJSI32-9" value="Pic" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="848" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UONl_0vnLgeqRxhJSI32-10" value="Bid&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="437" y="920.5" width="34" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="UONl_0vnLgeqRxhJSI32-11" value="+" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="483" y="920.5" width="34" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="UONl_0vnLgeqRxhJSI32-12" value="-" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="529" y="920.5" width="34" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="UONl_0vnLgeqRxhJSI32-13" value="NFT Marketplace" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=36;" vertex="1" parent="1">
+          <mxGeometry x="75" y="674" width="297" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
