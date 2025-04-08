@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15" version="26.2.8" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15" version="26.2.8" pages="3">
   <diagram name="Architecture" id="SdlY6U1H4udfot6sdlyQ">
     <mxGraphModel dx="1700" dy="1007" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -86,7 +86,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="y2AX_-SC_xydC1BlpLDu" name="Frontend">
-    <mxGraphModel dx="1020" dy="604" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1457" dy="863" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -140,6 +140,20 @@
         </mxCell>
         <mxCell id="UONl_0vnLgeqRxhJSI32-13" value="NFT Marketplace" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=36;" vertex="1" parent="1">
           <mxGeometry x="75" y="674" width="297" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="uJhZd8uZVskjZq-rBaY8" name="Contracts">
+    <mxGraphModel dx="1020" dy="1704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="k0MfFibqVgcLgkjUEGqe-1" value="MarketPlace Contracts" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="190" width="160" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="k0MfFibqVgcLgkjUEGqe-2" value="NFT contract" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="-40" width="160" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
