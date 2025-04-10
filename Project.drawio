@@ -113,6 +113,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UKQEmddHt3AZ9TwA1wAA-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-28" y="1438" width="1490" height="398" as="geometry" />
+        </mxCell>
         <mxCell id="cwnbkCxePR4Ohjtt_Xep-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="130" width="470" height="380" as="geometry" />
         </mxCell>
@@ -165,7 +168,7 @@
           <mxGeometry x="75" y="674" width="297" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UKQEmddHt3AZ9TwA1wAA-2" value="Verifier Logic" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=36;" vertex="1" parent="1">
-          <mxGeometry x="83" y="1382" width="297" height="30" as="geometry" />
+          <mxGeometry x="-9" y="1338" width="297" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UKQEmddHt3AZ9TwA1wAA-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UKQEmddHt3AZ9TwA1wAA-3" target="UKQEmddHt3AZ9TwA1wAA-4">
           <mxGeometry relative="1" as="geometry" />
