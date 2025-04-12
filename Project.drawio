@@ -247,6 +247,22 @@
         <mxCell id="Rj4jER5wyPSFAX4JNP4G-13" value="Hard List" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=1" vertex="1" parent="1">
           <mxGeometry y="290" width="103" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Rj4jER5wyPSFAX4JNP4G-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Rj4jER5wyPSFAX4JNP4G-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="950" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rj4jER5wyPSFAX4JNP4G-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Allow people to soft bid their price&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="210" y="960" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rj4jER5wyPSFAX4JNP4G-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Rj4jER5wyPSFAX4JNP4G-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rj4jER5wyPSFAX4JNP4G-16" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Allow people to hard bid their price&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="410" y="960" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
