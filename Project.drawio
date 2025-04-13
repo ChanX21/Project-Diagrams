@@ -207,7 +207,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uJhZd8uZVskjZq-rBaY8" name="Contracts">
-    <mxGraphModel dx="1600" dy="1111" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1857" dy="1263" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -238,7 +238,7 @@
         <mxCell id="Rj4jER5wyPSFAX4JNP4G-5" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Soft List&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="210" y="830" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Rj4jER5wyPSFAX4JNP4G-9" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Hard List&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;if required&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Rj4jER5wyPSFAX4JNP4G-9" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Convert to Hard List&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;if required&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="410" y="830" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Rj4jER5wyPSFAX4JNP4G-12" value="&lt;span&gt;Soft List&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=1" vertex="1" parent="1">
@@ -252,7 +252,7 @@
             <mxPoint x="270" y="950" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rj4jER5wyPSFAX4JNP4G-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Allow people to soft bid their price&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Rj4jER5wyPSFAX4JNP4G-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Allow people to bid their price&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="210" y="960" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Rj4jER5wyPSFAX4JNP4G-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Rj4jER5wyPSFAX4JNP4G-16">
@@ -260,7 +260,7 @@
             <mxPoint x="470" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rj4jER5wyPSFAX4JNP4G-16" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Allow people to hard bid their price&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Rj4jER5wyPSFAX4JNP4G-16" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Allow people to bid their price&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="410" y="960" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
