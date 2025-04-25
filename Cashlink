@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15" version="26.2.14">
   <diagram name="Page-1" id="KOi4zU78z6-bVw1dVy17">
-    <mxGraphModel dx="1018" dy="604" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1418" dy="604" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -80,6 +80,9 @@
         </mxCell>
         <mxCell id="cgDrRXFDkd_Ueqp_W8bO-25" value="Receives the fund" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="499" y="360" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cgDrRXFDkd_Ueqp_W8bO-26" value="&lt;b&gt;Lock And Release Mechanism&amp;nbsp;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="-16" y="52" width="410" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
