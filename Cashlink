@@ -7,6 +7,9 @@
         <mxCell id="cgDrRXFDkd_Ueqp_W8bO-1" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="260" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cgDrRXFDkd_Ueqp_W8bO-28" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="cgDrRXFDkd_Ueqp_W8bO-3" target="cgDrRXFDkd_Ueqp_W8bO-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cgDrRXFDkd_Ueqp_W8bO-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://kwiki-user-media.s3.amazonaws.com/staging/content/image_widgets/stripe-logo_ZMC1ZmF.png;" vertex="1" parent="1">
           <mxGeometry x="320" y="136" width="191.58" height="91" as="geometry" />
         </mxCell>
@@ -83,6 +86,9 @@
         </mxCell>
         <mxCell id="cgDrRXFDkd_Ueqp_W8bO-26" value="&lt;b&gt;Lock And Release Mechanism&amp;nbsp;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" vertex="1" parent="1">
           <mxGeometry x="-16" y="52" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cgDrRXFDkd_Ueqp_W8bO-27" value="Stripe Cut = 2.9%&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="102" y="454" width="123" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
