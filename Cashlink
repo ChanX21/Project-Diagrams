@@ -88,7 +88,10 @@
           <mxGeometry x="-16" y="52" width="410" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cgDrRXFDkd_Ueqp_W8bO-27" value="Stripe Cut = 2.9%&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="102" y="454" width="123" height="30" as="geometry" />
+          <mxGeometry x="73" y="454" width="123" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cgDrRXFDkd_Ueqp_W8bO-30" value="PlastiQ advantage&amp;nbsp;&lt;div&gt;They cutoff stripe&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="81" y="515" width="123" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
