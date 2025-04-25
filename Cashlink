@@ -7,6 +7,80 @@
         <mxCell id="cgDrRXFDkd_Ueqp_W8bO-1" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="260" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cgDrRXFDkd_Ueqp_W8bO-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://kwiki-user-media.s3.amazonaws.com/staging/content/image_widgets/stripe-logo_ZMC1ZmF.png;" vertex="1" parent="1">
+          <mxGeometry x="320" y="136" width="191.58" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="cgDrRXFDkd_Ueqp_W8bO-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.01;entryY=0.44;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" edge="1" parent="1" source="cgDrRXFDkd_Ueqp_W8bO-1" target="cgDrRXFDkd_Ueqp_W8bO-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="258" y="280" />
+              <mxPoint x="258" y="176" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cgDrRXFDkd_Ueqp_W8bO-6" value="Pays Via&amp;nbsp;&lt;div&gt;Credit Card&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="166" y="218" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cgDrRXFDkd_Ueqp_W8bO-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="603" y="158" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cgDrRXFDkd_Ueqp_W8bO-8" value="Reservoir&amp;nbsp;&lt;div&gt;Bank Account&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="631" y="171" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cgDrRXFDkd_Ueqp_W8bO-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cgDrRXFDkd_Ueqp_W8bO-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="356" as="sourcePoint" />
+            <mxPoint x="580" y="182" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cgDrRXFDkd_Ueqp_W8bO-11" value="&lt;b&gt;CashLink Backend System&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="577" y="265" width="247" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cgDrRXFDkd_Ueqp_W8bO-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="652" y="222" as="sourcePoint" />
+            <mxPoint x="652" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cgDrRXFDkd_Ueqp_W8bO-13" value="Fills the receiver details" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="266" y="227" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cgDrRXFDkd_Ueqp_W8bO-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="669" y="222" as="sourcePoint" />
+            <mxPoint x="669" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cgDrRXFDkd_Ueqp_W8bO-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="687" y="222" as="sourcePoint" />
+            <mxPoint x="687" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cgDrRXFDkd_Ueqp_W8bO-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="489" y="403" as="targetPoint" />
+            <mxPoint x="588" y="403" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cgDrRXFDkd_Ueqp_W8bO-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="599" y="373" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cgDrRXFDkd_Ueqp_W8bO-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="652" y="331" as="sourcePoint" />
+            <mxPoint x="653" y="366" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cgDrRXFDkd_Ueqp_W8bO-22" value="Supplier&amp;nbsp;&lt;div&gt;Bank Account&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="626" y="388" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cgDrRXFDkd_Ueqp_W8bO-23" value="Receiver" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="455" y="379" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cgDrRXFDkd_Ueqp_W8bO-25" value="Receives the fund" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="499" y="360" width="86" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
