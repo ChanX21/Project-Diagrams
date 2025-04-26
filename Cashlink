@@ -101,6 +101,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="DvyEzfaHCxCl6Lbt5cWB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="cgDrRXFDkd_Ueqp_W8bO-31" target="OsGZBXQH6vYH6FLsT1oO-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cgDrRXFDkd_Ueqp_W8bO-31" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="1356" y="243" width="30" height="60" as="geometry" />
         </mxCell>
@@ -174,6 +177,12 @@
         </mxCell>
         <mxCell id="OsGZBXQH6vYH6FLsT1oO-15" value="Funds the Cash to the Receiver" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="2056" y="155" width="121" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DvyEzfaHCxCl6Lbt5cWB-3" value="PayBack" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1498" y="215" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DvyEzfaHCxCl6Lbt5cWB-5" value="Cashlink Cut = 0.5%&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1498" y="562" width="123" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
