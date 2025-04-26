@@ -204,6 +204,9 @@
         <mxCell id="DvyEzfaHCxCl6Lbt5cWB-12" value="PayBack" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1768" y="-19" width="86" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="DvyEzfaHCxCl6Lbt5cWB-13" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.iconscout.com/icon/free/png-256/free-razorpay-logo-icon-download-in-svg-png-gif-file-formats--payment-gateway-brand-logos-icons-1399875.png;clipPath=inset(37.11% 0% 37.89% 0%);" vertex="1" parent="1">
+          <mxGeometry x="1551.79" y="77.5" width="180" height="45" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
