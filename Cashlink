@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15" version="26.2.14">
   <diagram name="Page-1" id="KOi4zU78z6-bVw1dVy17">
-    <mxGraphModel dx="1854" dy="1263" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2097" dy="1407" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -212,6 +212,98 @@
         </mxCell>
         <mxCell id="DvyEzfaHCxCl6Lbt5cWB-15" value="&lt;font style=&quot;font-size: 34px;&quot;&gt;Advantages&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;International Compatability&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Low Transaction Costs&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;Disadvantages&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;More difficult to build&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1935" y="369" width="255" height="358" as="geometry" />
+        </mxCell>
+        <mxCell id="Fb8klP_9rUaKGz_yLEz2-1" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="127" y="963" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fb8klP_9rUaKGz_yLEz2-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="Fb8klP_9rUaKGz_yLEz2-3" target="Fb8klP_9rUaKGz_yLEz2-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fb8klP_9rUaKGz_yLEz2-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://kwiki-user-media.s3.amazonaws.com/staging/content/image_widgets/stripe-logo_ZMC1ZmF.png;" vertex="1" parent="1">
+          <mxGeometry x="317" y="839" width="191.58" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="Fb8klP_9rUaKGz_yLEz2-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.01;entryY=0.44;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" edge="1" parent="1" source="Fb8klP_9rUaKGz_yLEz2-1" target="Fb8klP_9rUaKGz_yLEz2-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="255" y="983" />
+              <mxPoint x="255" y="879" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fb8klP_9rUaKGz_yLEz2-5" value="Pays Via&amp;nbsp;&lt;div&gt;Credit Card&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="163" y="921" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fb8klP_9rUaKGz_yLEz2-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="861" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fb8klP_9rUaKGz_yLEz2-7" value="Reservoir&amp;nbsp;&lt;div&gt;Bank Account&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="628" y="874" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fb8klP_9rUaKGz_yLEz2-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Fb8klP_9rUaKGz_yLEz2-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="297" y="1059" as="sourcePoint" />
+            <mxPoint x="577" y="885" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fb8klP_9rUaKGz_yLEz2-9" value="&lt;b&gt;CashLink Backend System&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="574" y="968" width="247" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fb8klP_9rUaKGz_yLEz2-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="649" y="925" as="sourcePoint" />
+            <mxPoint x="649" y="963" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fb8klP_9rUaKGz_yLEz2-11" value="Fills the receiver details" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="263" y="930" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fb8klP_9rUaKGz_yLEz2-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="666" y="925" as="sourcePoint" />
+            <mxPoint x="666" y="963" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fb8klP_9rUaKGz_yLEz2-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="684" y="925" as="sourcePoint" />
+            <mxPoint x="684" y="963" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fb8klP_9rUaKGz_yLEz2-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="486" y="1106" as="targetPoint" />
+            <mxPoint x="585" y="1106" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fb8klP_9rUaKGz_yLEz2-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="596" y="1076" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fb8klP_9rUaKGz_yLEz2-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="649" y="1034" as="sourcePoint" />
+            <mxPoint x="650" y="1069" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fb8klP_9rUaKGz_yLEz2-17" value="Supplier&amp;nbsp;&lt;div&gt;Bank Account&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="623" y="1091" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fb8klP_9rUaKGz_yLEz2-18" value="Receiver" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="452" y="1082" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fb8klP_9rUaKGz_yLEz2-19" value="Receives the fund" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="496" y="1063" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fb8klP_9rUaKGz_yLEz2-20" value="&lt;b&gt;Crypto Exchange Method&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="-19" y="755" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fb8klP_9rUaKGz_yLEz2-21" value="Stripe Cut = 2.9%&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="70" y="1157" width="123" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fb8klP_9rUaKGz_yLEz2-22" value="PlastiQ advantage&amp;nbsp;&lt;div&gt;They cutoff stripe&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="78" y="1218" width="123" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fb8klP_9rUaKGz_yLEz2-23" value="&lt;font style=&quot;font-size: 34px;&quot;&gt;Advantages&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Easier to build&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Country Specialized as Bank and Compliancy coming&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;Disadvantages&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;High Transaction Costs&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Restricted to certain countries&lt;/font&gt;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="893" y="842" width="255" height="358" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
