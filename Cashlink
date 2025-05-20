@@ -386,7 +386,7 @@
         </mxCell>
         <mxCell id="Iv-5LcNQvoFtXON1s6d--18" value="Binance" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1240" y="370" as="geometry">
-            <mxPoint x="-3" y="-3" as="offset" />
+            <mxPoint x="-7" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
