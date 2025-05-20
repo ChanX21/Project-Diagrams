@@ -309,15 +309,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dyu4P03pfIRYDSe9joOO" name="Page-2">
-    <mxGraphModel dx="1018" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1198" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Iv-5LcNQvoFtXON1s6d--2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="lUYHGF9BU6vKiGS7TVZy-1" target="Iv-5LcNQvoFtXON1s6d--1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lUYHGF9BU6vKiGS7TVZy-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="170" y="260" width="30" height="60" as="geometry" />
+        <mxCell id="lUYHGF9BU6vKiGS7TVZy-1" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="120" y="260" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xXFoKJEhXrv7ogmT-Zcy-1" value="Cashlink" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="210" width="120" height="60" as="geometry" />
@@ -327,6 +327,19 @@
         </mxCell>
         <mxCell id="Iv-5LcNQvoFtXON1s6d--3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.025;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Iv-5LcNQvoFtXON1s6d--1" target="xXFoKJEhXrv7ogmT-Zcy-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iv-5LcNQvoFtXON1s6d--4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xXFoKJEhXrv7ogmT-Zcy-1" target="lUYHGF9BU6vKiGS7TVZy-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="340" />
+              <mxPoint x="200" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iv-5LcNQvoFtXON1s6d--5" value="Bank Account" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Iv-5LcNQvoFtXON1s6d--4">
+          <mxGeometry x="0.1473" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
