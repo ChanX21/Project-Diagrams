@@ -322,6 +322,9 @@
         <mxCell id="xXFoKJEhXrv7ogmT-Zcy-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="250" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Iv-5LcNQvoFtXON1s6d--1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://kwiki-user-media.s3.amazonaws.com/staging/content/image_widgets/stripe-logo_ZMC1ZmF.png;" vertex="1" parent="1">
+          <mxGeometry x="294.21" y="130" width="191.58" height="91" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
