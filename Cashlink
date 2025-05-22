@@ -323,7 +323,7 @@
           <mxGeometry x="500" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Iv-5LcNQvoFtXON1s6d--1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://kwiki-user-media.s3.amazonaws.com/staging/content/image_widgets/stripe-logo_ZMC1ZmF.png;" parent="1" vertex="1">
-          <mxGeometry x="249.99999999999997" y="229" width="191.58" height="91" as="geometry" />
+          <mxGeometry x="209.99999999999997" y="194.5" width="191.58" height="91" as="geometry" />
         </mxCell>
         <mxCell id="Iv-5LcNQvoFtXON1s6d--3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.025;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Iv-5LcNQvoFtXON1s6d--1" target="xXFoKJEhXrv7ogmT-Zcy-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -400,8 +400,14 @@
         <mxCell id="Pc1a1HzLvwdlLEGkJ9C6-3" value="" style="shape=mxgraph.signs.travel.bank;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="660" y="310" width="99" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="Pc1a1HzLvwdlLEGkJ9C6-5" value="Submits&amp;nbsp;&lt;div&gt;Bank Account of Receiver,&lt;/div&gt;&lt;div&gt;Amount&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="60" width="160" height="30" as="geometry" />
+        <mxCell id="Pc1a1HzLvwdlLEGkJ9C6-5" value="Submits&amp;nbsp;&lt;div&gt;Bank Account of Receiver,&lt;/div&gt;&lt;div&gt;Amount&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="70" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pc1a1HzLvwdlLEGkJ9C6-6" value="Receiver" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="280" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pc1a1HzLvwdlLEGkJ9C6-7" value="Receives Cash to the submitted&amp;nbsp;&lt;div&gt;Bank Account with the same Amount&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="345" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
