@@ -313,8 +313,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Iv-5LcNQvoFtXON1s6d--2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="lUYHGF9BU6vKiGS7TVZy-1" target="Iv-5LcNQvoFtXON1s6d--1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Iv-5LcNQvoFtXON1s6d--2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="lUYHGF9BU6vKiGS7TVZy-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="305.79999999999995" y="194.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="lUYHGF9BU6vKiGS7TVZy-1" value="Sender" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="150" y="96" width="30" height="60" as="geometry" />
@@ -322,11 +324,10 @@
         <mxCell id="xXFoKJEhXrv7ogmT-Zcy-1" value="Cashlink Merchant Account" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Iv-5LcNQvoFtXON1s6d--1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://kwiki-user-media.s3.amazonaws.com/staging/content/image_widgets/stripe-logo_ZMC1ZmF.png;" parent="1" vertex="1">
-          <mxGeometry x="209.99999999999997" y="194.5" width="191.58" height="91" as="geometry" />
-        </mxCell>
-        <mxCell id="Iv-5LcNQvoFtXON1s6d--3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.025;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Iv-5LcNQvoFtXON1s6d--1" target="xXFoKJEhXrv7ogmT-Zcy-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Iv-5LcNQvoFtXON1s6d--3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.025;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="xXFoKJEhXrv7ogmT-Zcy-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="401.5799999999999" y="240" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Iv-5LcNQvoFtXON1s6d--9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Iv-5LcNQvoFtXON1s6d--10" target="Iv-5LcNQvoFtXON1s6d--12" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -408,6 +409,9 @@
         </mxCell>
         <mxCell id="Pc1a1HzLvwdlLEGkJ9C6-7" value="Receives Cash to the submitted&amp;nbsp;&lt;div&gt;Bank Account with the same Amount&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="345" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pc1a1HzLvwdlLEGkJ9C6-8" value="Some Payment Interface" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
