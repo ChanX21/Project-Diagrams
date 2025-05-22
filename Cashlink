@@ -316,7 +316,7 @@
         <mxCell id="Iv-5LcNQvoFtXON1s6d--2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="lUYHGF9BU6vKiGS7TVZy-1" target="Iv-5LcNQvoFtXON1s6d--1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lUYHGF9BU6vKiGS7TVZy-1" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="lUYHGF9BU6vKiGS7TVZy-1" value="Sender" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="150" y="96" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xXFoKJEhXrv7ogmT-Zcy-1" value="Cashlink Merchant Account" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
