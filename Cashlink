@@ -317,7 +317,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lUYHGF9BU6vKiGS7TVZy-1" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="120" y="260" width="30" height="60" as="geometry" />
+          <mxGeometry x="150" y="96" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xXFoKJEhXrv7ogmT-Zcy-1" value="Cashlink Merchant Account" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="210" width="120" height="60" as="geometry" />
