@@ -388,6 +388,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Pc1a1HzLvwdlLEGkJ9C6-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.03;exitY=0.65;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Pc1a1HzLvwdlLEGkJ9C6-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Pc1a1HzLvwdlLEGkJ9C6-3" value="" style="shape=mxgraph.signs.travel.bank;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="660" y="310" width="99" height="86" as="geometry" />
         </mxCell>
