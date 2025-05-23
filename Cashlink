@@ -502,7 +502,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Pc1a1HzLvwdlLEGkJ9C6-53" value="USDC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="380" y="1410" as="geometry">
+          <mxGeometry x="420" y="1320" as="geometry">
             <mxPoint x="44" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
