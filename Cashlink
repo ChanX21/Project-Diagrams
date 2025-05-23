@@ -457,43 +457,20 @@
         <mxCell id="Pc1a1HzLvwdlLEGkJ9C6-28" value="Convenience fees" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="670" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Pc1a1HzLvwdlLEGkJ9C6-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Pc1a1HzLvwdlLEGkJ9C6-30">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="276.79999999999995" y="1323.5" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="Pc1a1HzLvwdlLEGkJ9C6-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Pc1a1HzLvwdlLEGkJ9C6-30" target="Pc1a1HzLvwdlLEGkJ9C6-40">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pc1a1HzLvwdlLEGkJ9C6-30" value="Sender" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="121" y="1225" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Pc1a1HzLvwdlLEGkJ9C6-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Pc1a1HzLvwdlLEGkJ9C6-34" target="Pc1a1HzLvwdlLEGkJ9C6-33">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="372.5799999999999" y="1369" as="sourcePoint" />
-            <mxPoint x="468" y="1376.0200000000002" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Pc1a1HzLvwdlLEGkJ9C6-32" value="Submits&amp;nbsp;&lt;div&gt;Bank Account of Receiver,&lt;/div&gt;&lt;div&gt;Amount&amp;nbsp;&lt;/div&gt;&lt;div&gt;OR&amp;nbsp;&lt;/div&gt;&lt;div&gt;generate a link with the amount&amp;nbsp;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="161" y="1179" width="160" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Pc1a1HzLvwdlLEGkJ9C6-33" value="Receiver" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="61" y="1409" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Pc1a1HzLvwdlLEGkJ9C6-34" value="Split Payments" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="231" y="1330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pc1a1HzLvwdlLEGkJ9C6-35" value="&lt;b&gt;Option 3&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-9" y="1150" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Pc1a1HzLvwdlLEGkJ9C6-36" value="" style="shape=mxgraph.signs.travel.bank;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
-          <mxGeometry x="561" y="1244" width="99" height="86" as="geometry" />
-        </mxCell>
-        <mxCell id="Pc1a1HzLvwdlLEGkJ9C6-37" value="Receives Cash to the submitted&amp;nbsp;&lt;div&gt;Bank Account with the same Amount&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Or&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Click the link and enter the bank details&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="211" y="1510" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pc1a1HzLvwdlLEGkJ9C6-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.03;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Pc1a1HzLvwdlLEGkJ9C6-34" target="Pc1a1HzLvwdlLEGkJ9C6-36">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Pc1a1HzLvwdlLEGkJ9C6-39" value="Convenience fees" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="361" y="1260" width="160" height="30" as="geometry" />
+        <mxCell id="Pc1a1HzLvwdlLEGkJ9C6-40" value="On Ramp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
