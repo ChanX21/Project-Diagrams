@@ -313,6 +313,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="A2aDifW6AcDlulFejTrB-37" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="2209" width="250" height="151" as="geometry" />
+        </mxCell>
         <mxCell id="Iv-5LcNQvoFtXON1s6d--2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="lUYHGF9BU6vKiGS7TVZy-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="305.79999999999995" y="194.5" as="targetPoint" />
@@ -523,6 +526,59 @@
         </mxCell>
         <mxCell id="Pc1a1HzLvwdlLEGkJ9C6-59" value="&lt;ul style=&quot;list-style-type: disc&quot;&gt;Cons&amp;nbsp;&lt;/ul&gt;&lt;ul style=&quot;list-style-type: disc&quot;&gt;&lt;br&gt;&lt;li style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt;&lt;span style=&quot;font-style: normal; font-variant-caps: normal; font-stretch: normal; line-height: normal; font-family: Menlo; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt;&lt;/span&gt;Compliance Issues&amp;nbsp;&lt;/li&gt;&lt;br&gt;&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="880" y="370" width="300" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="A2aDifW6AcDlulFejTrB-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="A2aDifW6AcDlulFejTrB-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="315.79999999999995" y="2063.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A2aDifW6AcDlulFejTrB-21" value="Sender" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1965" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A2aDifW6AcDlulFejTrB-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="A2aDifW6AcDlulFejTrB-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="411.5799999999999" y="2109" as="sourcePoint" />
+            <mxPoint x="320" y="2200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A2aDifW6AcDlulFejTrB-23" value="Submits&amp;nbsp;&lt;div&gt;Bank Account of Receiver,&lt;/div&gt;&lt;div&gt;Amount&amp;nbsp;&lt;/div&gt;&lt;div&gt;OR&amp;nbsp;&lt;/div&gt;&lt;div&gt;generate a link with the amount&amp;nbsp;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1919" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A2aDifW6AcDlulFejTrB-24" value="Receiver" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="2149" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A2aDifW6AcDlulFejTrB-25" value="Split Payments" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="2070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A2aDifW6AcDlulFejTrB-26" value="&lt;b&gt;Option 3&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1890" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A2aDifW6AcDlulFejTrB-27" value="" style="shape=mxgraph.signs.travel.bank;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1984" width="99" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="A2aDifW6AcDlulFejTrB-28" value="Receives Cash to the submitted&amp;nbsp;&lt;div&gt;Bank Account with the same Amount&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Or&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Click the link and enter the bank details&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="2330" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A2aDifW6AcDlulFejTrB-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.03;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="A2aDifW6AcDlulFejTrB-25" target="A2aDifW6AcDlulFejTrB-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A2aDifW6AcDlulFejTrB-30" value="Convenience fees" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="2000" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A2aDifW6AcDlulFejTrB-33" value="Receiver" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="285" y="2220" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A2aDifW6AcDlulFejTrB-34" value="Receiver" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="2220" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A2aDifW6AcDlulFejTrB-35" value="Receiver" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="2240" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A2aDifW6AcDlulFejTrB-38" value="Solvers" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="2320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A2aDifW6AcDlulFejTrB-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="A2aDifW6AcDlulFejTrB-37" target="A2aDifW6AcDlulFejTrB-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
