@@ -565,13 +565,13 @@
         <mxCell id="A2aDifW6AcDlulFejTrB-30" value="Convenience fees" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="2000" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="A2aDifW6AcDlulFejTrB-33" value="Receiver" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="A2aDifW6AcDlulFejTrB-33" value="Solver 1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="285" y="2220" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A2aDifW6AcDlulFejTrB-34" value="Receiver" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="A2aDifW6AcDlulFejTrB-34" value="Solver 3&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="2220" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A2aDifW6AcDlulFejTrB-35" value="Receiver" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="A2aDifW6AcDlulFejTrB-35" value="Solver 2&amp;nbsp;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="2240" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A2aDifW6AcDlulFejTrB-38" value="Solvers" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
